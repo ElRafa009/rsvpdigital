@@ -1,0 +1,21 @@
+/* Aqui se personaliza el navbar */
+.custom-navbar {
+    background-color: #2ecc71;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.custom-navbar .nombre-pag {
+    color: black;
+}
+
+.custom-navbar .btn-pers {
+    color: blue;
+    text-align: end;
+    margin-right: 10px;
+    transition: color 0.3s ease;
+}
+
+.custom-navbar .btn-pers:hover {
+    color: red;
+}
