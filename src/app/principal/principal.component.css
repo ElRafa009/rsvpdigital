@@ -15,6 +15,12 @@
     width: 100%;
 }
 
+.imghe{
+    max-height: 90vh;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
 
 @media screen and (max-width: 600px) {
     /* Estilos específicos para pantallas con un ancho máximo de 600px */
